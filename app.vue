@@ -1,5 +1,7 @@
 <template>
-  <div class="font-bold text-2xl">
-    Hello world
+  <div>
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
